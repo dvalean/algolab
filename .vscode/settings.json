@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": ["labor", "labor_loesung"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": ["lib/**/*.jar"],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
